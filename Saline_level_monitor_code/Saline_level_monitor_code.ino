@@ -20,7 +20,7 @@
 #define WIFI_PASSWORD "shaurya1"
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyBKChZBSyfRWPukRCR0tCSRIysk7jzXx5U"
+#define API_KEY "<api_key>"
 
 // Insert RTDB URLefine the RTDB URL */
 #define DATABASE_URL "https://saline-monitor-system-default-rtdb.firebaseio.com/"
